@@ -4,7 +4,20 @@ function Footer(){
 
   return(
     <section>
-      <p>This is the footer; contact info, awards/associations, social media, ect</p>
+      <div id="contact-us">
+        <p>   Contact us: <br/>
+              Email: info@almacider.com<br/>
+              Ph: 425.312.5734
+        </p>
+      </div>
+      <div id="partners">
+        
+      </div>
+      <div id="social-media">
+        <a href="instagram.com">Insta</a>
+        <a href="facebook.com">FB</a>
+
+      </div>
     </section>
   )
 }

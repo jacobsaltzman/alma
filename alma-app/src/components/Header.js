@@ -8,7 +8,7 @@ function Header(){
       <div className="navbar">
         <h1>Alma Cider</h1>
         <Link to="/">Home</Link>
-        <Link to="">Products</Link>
+        <Link to="">Ciders</Link>
         <Link to="/services">Services</Link>
         <Link to="">Retailers</Link>
         <Link to="/about">About Us</Link>
