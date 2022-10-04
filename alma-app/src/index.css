@@ -1,0 +1,12 @@
+.about-alma-div {
+  text-align: center;
+  display: block;
+  margin-top: 60px;
+  padding-bottom: 60px;
+}
+
+html {
+  background-color: rgba(0, 0, 0, 0); }
+
+body {
+  background-color: #f5f4ef; }
