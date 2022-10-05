@@ -47,10 +47,67 @@ body, html {
     background-size: cover;
     z-index: -1;
   }
-
   #background-4 {
+    background-image: url(/home/ickus/Development/code/alma/alma-app/src/images/dave3.jpg);
+    height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: -1;
+  }
+
+  #background-5 {
     background-image: url(/home/ickus/Development/code/alma/alma-app/src/images/apple_tree3.jpg);
     height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+  }
+
+  #home {
+    background-image: url(/home/ickus/Development/code/alma/alma-app/src/images/apple_tree7.jpg);
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+  }
+
+  .services-p {
+    height: 500px;
+    background-color: #f5f4ef;
+    z-index: -1;
+    font-size: xx-large;
+  }
+
+
+
+
+  #services-background1 {
+    background-image: url(/home/ickus/Development/code/alma/alma-app/src/images/stem.jpg);
+    height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+  }
+  #services-background2 {
+    background-image: url(/home/ickus/Development/code/alma/alma-app/src/images/stem2.jpg);
+    height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+  }
+  #services-background3 {
+    background-image: url(/home/ickus/Development/code/alma/alma-app/src/images/stem7.jpg);
+    height: 800px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;

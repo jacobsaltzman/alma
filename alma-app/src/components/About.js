@@ -25,13 +25,13 @@ function About(){
 
     <p className="about-alma-p">Y. Dave and Heather Klawer are both Registered Nurses. Heather has cared for neonates as a NICU nurse at Providence in Everett, WA for nearly 20 years. Dave has been supporting and caring for mothers, newborns, and their families since 2005. He works in Labor and Delivery, also at Providence in Everett. Heather and Dave live in the Skagit Valley where they raise their children. In addition to raising a family, working in healthcare, advocating for women’s and neonatal health, and growing community Dave and Heather Klawer tend to their young orchard and make cider. We hope you enjoy Alma Cider! As it is truly a labor of love
     </p>
-    <div id="background-3"></div>
+    <div id="background-4"></div>
 
     <p className="about-alma-p">
     In 2019, our first commercial batch of cider was made. We make all of our ciders using only locally grown, hand picked fruit. We are so excited to be able to share our Cider with you. Cheers! 
     </p>
 
-    <div id="background-4"></div>
+    <div id="background-5"></div>
 
     </div>
   )
