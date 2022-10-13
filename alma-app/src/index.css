@@ -12,7 +12,7 @@ body, html {
 
 
 .about-alma-p {
-    height: 500px;
+    height: 400px;
     background-color: #f5f4ef;
     z-index: -1;
     font-size: xx-large;
@@ -78,10 +78,16 @@ body, html {
   }
 
   .services-p {
-    height: 500px;
+    height: 400px;
     background-color: #f5f4ef;
     z-index: -1;
-    font-size: xx-large;
+    text-align: center;
+    font-size: 40px;
+  }
+
+  #services-h1{
+    text-align: center;
+    font-style: oblique;
   }
 
 
