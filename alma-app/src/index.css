@@ -1,6 +1,13 @@
 body, html {
   height: 100%;
   background-color: #f5f4ef;
+  font-family: tribute;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  letter-spacing: 2px;
+  line-height: 2.5em;
+  text-transform: none;
 }
 
 .about-alma-div {
@@ -120,3 +127,31 @@ body, html {
     background-size: cover;
     z-index: -1;
   }
+
+
+  .navbar{
+    text-align: right;
+  }
+
+  #nav-links{
+    margin: 1em;
+    padding: 1em 0;
+    display: inline-block;
+    vertical-align: middle;
+    font-family: trade-gothic-next-compressed;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 15px;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-self: auto;
+  }
+
+a:link { 
+  text-decoration: none;
+ }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
