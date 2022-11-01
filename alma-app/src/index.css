@@ -101,7 +101,8 @@ body, html {
 
 
   #services-background1 {
-    background-image: url(/home/ickus/Development/code/alma/alma-app/src/images/stem.jpg);
+    background-image: url(/home/ickus/Development/code/alma/alma-app/src/images/stem7.jpg);
+
     height: 800px;
     background-attachment: fixed;
     background-position: center;
@@ -119,7 +120,7 @@ body, html {
     z-index: -1;
   }
   #services-background3 {
-    background-image: url(/home/ickus/Development/code/alma/alma-app/src/images/stem7.jpg);
+    background-image: url(/home/ickus/Development/code/alma/alma-app/src/images/stem.jpg);
     height: 800px;
     background-attachment: fixed;
     background-position: center;
@@ -130,7 +131,8 @@ body, html {
 
 
   .navbar{
-    text-align: right;
+    text-align: left;
+    background-image: url(/home/ickus/Development/code/alma/alma-app/src/images/apple_tree8.jpg);
   }
 
   #nav-links{
@@ -171,4 +173,8 @@ a:hover {
 
 a:active { 
   text-decoration: none; 
+}
+
+#footer{
+  background-image: url(/home/ickus/Development/code/alma/alma-app/src/images/apple3.jpg);
 }

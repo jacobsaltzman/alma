@@ -3,7 +3,7 @@ import React from "react";
 function Footer(){
 
   return(
-    <section>
+    <section id="footer">
       <div id="contact-us">
         <p>   Contact us: <br/>
               Email: info@almacider.com<br/>
