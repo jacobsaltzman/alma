@@ -2,6 +2,7 @@ body, html {
   height: 100%;
   background-color: #f5f4ef;
   background-image: url(/home/ickus/Development/code/alma/alma-app/src/images/apple_tree_remix.png);
+  background-size: cover;
   font-family: tribute;
   font-weight: 400;
   font-style: normal;
@@ -182,4 +183,20 @@ a:active {
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
+}
+
+#main-logo-image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#main-logo-div{
+  visibility: hidden;
+}
+
+#banner-logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
