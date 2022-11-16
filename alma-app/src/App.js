@@ -7,6 +7,7 @@ import Footer from './components/Footer';
 import About from './components/About';
 import Services from './components/Services';
 import Ciders from './components/Ciders';
+import Retailers from './components/Retailers';
 
 function App() {
   return (
@@ -24,6 +25,9 @@ function App() {
         </Route>
         <Route path="/ciders">
           <Ciders />
+        </Route>
+        <Route path='/retailers'>
+          <Retailers />
         </Route>
       </Switch>
       <Footer />
