@@ -132,7 +132,7 @@ body, html {
 
   .navbar{
     text-align: left;
-    background-image: url(/home/ickus/Development/code/alma/alma-app/src/images/apple_tree8.jpg);
+    background-image: url(/home/ickus/Development/code/alma/alma-app/src/images/apple_tree_remix2.png);
   }
 
   #nav-links{
@@ -176,5 +176,5 @@ a:active {
 }
 
 #footer{
-  background-image: url(/home/ickus/Development/code/alma/alma-app/src/images/apple3.jpg);
+  background-image: url(/home/ickus/Development/code/alma/alma-app/src/images/apple_tree_remix2.png);
 }

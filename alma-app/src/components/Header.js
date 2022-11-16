@@ -5,7 +5,7 @@ function Header(){
 
   return(
     <header>
-
+      
       <div className="navbar">
         <div id="nav-links">
         <Link to="/">Home</Link>
