@@ -8,11 +8,12 @@ import About from './components/About';
 import Services from './components/Services';
 import Ciders from './components/Ciders';
 import Retailers from './components/Retailers';
+import banner from './images/banner.png';
 
 function App() {
   return (
     <div className="App">
-      <Header />
+      <Header banner={banner}/>
       <Switch>
         <Route exact path='/'>
           <Home />
