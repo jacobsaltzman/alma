@@ -1,4 +1,5 @@
 import React from "react";
+import { SocialIcon } from "react-social-icons";
 
 function Footer(){
 
@@ -14,8 +15,11 @@ function Footer(){
         
       </div>
       <div id="social-media">
-        <a href="instagram.com">Insta</a>
-        <a href="facebook.com">FB</a>
+        <SocialIcon url="https://www.facebook.com/almaciderco/"/>
+        <SocialIcon url="https://www.instagram.com/almaciderco/"/>
+        <SocialIcon network="mailto" url="info@almacider.com"/>
+        <SocialIcon url="https://www.youtube.com/watch?v=GPmrh-3Xdi0&ab_channel=CiderChat"/>
+        <SocialIcon url="https://twitter.com/AlmaCider"/>
 
       </div>
     </section>
