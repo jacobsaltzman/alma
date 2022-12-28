@@ -1,6 +1,10 @@
 import React from "react";
 import { SocialIcon } from "react-social-icons";
 
+//Credit to
+//https://www.npmjs.com/package/react-social-icons 
+//for the social media icon package
+
 function Footer(){
 
   return(
