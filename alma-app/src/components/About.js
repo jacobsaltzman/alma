@@ -4,7 +4,7 @@ function About(){
 
   return (
     <div className="about-alma-div">
-    <h1>What is Alma?</h1>
+    <h1>The origin of Alma</h1>
     <div id="background-1"></div>
     <p className="about-alma-p">Apples are native to Kazakhstan. If one were to hike through the hills and forests of Kazakhstan they would be among the native trees and be able to taste the wild apples that have grown in the region for millennia.
     </p>

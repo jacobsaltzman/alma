@@ -1,7 +1,6 @@
 body, html {
   height: 100%;
   background-color: #f5f4ef;
-  background-image: url(/home/ickus/Development/code/alma/alma-app/src/images/apple_tree_remix.png);
   background-size: cover;
   font-family: tribute;
   font-weight: 400;
@@ -142,7 +141,8 @@ body, html {
 
   .navbar{
     text-align: left;
-    background-image: url(/home/ickus/Development/code/alma/alma-app/src/images/apple_tree_remix2.png);
+  background-color: rgba(59, 53, 85, 0.192);
+    
   }
 
   #nav-links{
@@ -186,7 +186,7 @@ a:active {
 }
 
 #footer{
-  background-image: url(/home/ickus/Development/code/alma/alma-app/src/images/apple_tree_remix2.png);
+  background-color: rgba(59, 53, 85, 0.192);
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
