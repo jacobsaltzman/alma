@@ -15,11 +15,11 @@ function Footer(){
         
       </div>
       <div id="social-media">
-        <SocialIcon url="https://www.facebook.com/almaciderco/"/>
-        <SocialIcon url="https://www.instagram.com/almaciderco/"/>
-        <SocialIcon network="mailto" url="info@almacider.com"/>
-        <SocialIcon url="https://www.youtube.com/watch?v=GPmrh-3Xdi0&ab_channel=CiderChat"/>
-        <SocialIcon url="https://twitter.com/AlmaCider"/>
+        <SocialIcon url="https://www.facebook.com/almaciderco/" style={{ height: 25, width: 25 }}/>
+        <SocialIcon url="https://www.instagram.com/almaciderco/" style={{ height: 25, width: 25 }} />
+        <SocialIcon network="mailto" url="info@almacider.com" style={{ height: 25, width: 25 }} />
+        <SocialIcon url="https://www.youtube.com/watch?v=GPmrh-3Xdi0&ab_channel=CiderChat" style={{ height: 25, width: 25 }} />
+        <SocialIcon url="https://twitter.com/AlmaCider" style={{ height: 25, width: 25 }} />
 
       </div>
     </section>

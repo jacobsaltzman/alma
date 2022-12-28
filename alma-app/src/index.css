@@ -214,3 +214,9 @@ a:active {
   justify-content: center;
   align-items: center;
 }
+
+
+#social-media{
+  height: auto;
+  padding: 10px;
+}
