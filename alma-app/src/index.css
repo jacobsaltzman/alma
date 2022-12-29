@@ -78,6 +78,7 @@ body, html {
   }
 
   #home {
+    padding-top: auto;
     background-image: url(./images/apple_tree7.jpg);
     height: 60vh;
     background-attachment: fixed;
@@ -138,9 +139,21 @@ body, html {
     z-index: -1;
   }
 
+  
+
+
+#services-background4 {
+    background-image: url(./images/stem3.jpg);
+    height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+  }
 
   .navbar{
-    text-align: left;
+  text-align: center;
   background-color: rgba(59, 53, 85, 0.192);
     
   }
@@ -217,6 +230,7 @@ a:active {
 
 
 #social-media{
-  height: auto;
   padding: 10px;
+
 }
+
