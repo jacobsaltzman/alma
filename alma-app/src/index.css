@@ -237,3 +237,12 @@ a:active {
 .cider-list{
  line-height: 0;
 }
+
+#ciders-component h3{
+  text-align: center;
+  text-decoration: underline;
+}
+
+.flavors{
+  font-style: italic;
+}
