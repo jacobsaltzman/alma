@@ -11,7 +11,7 @@ function Footer(){
     <section id="footer">
       <div id="contact-us">
            <h4>Contact</h4>
-           <p>Mount Vernon, WA <br/>
+           <p>
             info@almacider.com <br/>
             425.312.5734</p>
       </div>

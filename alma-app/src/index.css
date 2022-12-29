@@ -221,7 +221,7 @@ a:active {
 
 #banner-logo{
   display: flex;
-  width: 90%;
+  max-width: 100%;
   margin-left: auto;
   margin-right: auto;
   justify-content: center;
