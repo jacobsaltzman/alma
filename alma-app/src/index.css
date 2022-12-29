@@ -204,7 +204,7 @@ a:active {
   background-size: cover;
   text-align: center;
   margin-top: 100px;
-  
+  line-height: normal;
 }
 
 #main-logo-image{
@@ -234,3 +234,6 @@ a:active {
 
 }
 
+.cider-list{
+ line-height: 0;
+}
