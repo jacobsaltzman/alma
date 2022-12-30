@@ -4,8 +4,10 @@ function Services(){
 
   return (
     <div>
+
+<h1 id="services-h1">Bitters and Sharps services</h1>
     <div id="services-background1"></div>
-    <h1 id="services-h1">Bitters and Sharps services</h1>
+    
     <p className="services-p">We provide custom grafting, orchard planning, and consultation services. Apple sales and scion wood sales are also available.
 We source certified virus free rootstock regionally, from a third generation family rootstock farm. Our scion wood is collected from our own orchard as well as from local orchard partners. 
     </p>
