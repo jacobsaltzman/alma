@@ -319,3 +319,8 @@ b :hover{
   background-color: darkred;
   transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
 }
+
+#awards-images img{
+  max-width: 300px;
+  max-height: 300px;
+}
