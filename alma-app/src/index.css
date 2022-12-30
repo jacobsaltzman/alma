@@ -21,7 +21,6 @@ body, html {
 
 .about-alma-p {
    height: fit-content;
-    background-color: #cfccbeaf;
     z-index: -1;
     font-size: 20px;
     background-color: #f5f4ef80;
@@ -299,4 +298,24 @@ a:active {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+
+b :hover{
+  font-weight: bolder;
+  color: red;
+  cursor: cell;
+}
+
+.about-alma-div h2{
+  color: darkred;
+  
+}
+
+.about-alma-div h2:hover{
+  cursor: help;
+  color: white;
+  box-shadow: darkred;
+  background-color: darkred;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
 }

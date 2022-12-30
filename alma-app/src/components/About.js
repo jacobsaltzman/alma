@@ -23,12 +23,12 @@ function About(){
     </p>
     <div id="background-3"></div>
     <h2>Who is Alma?</h2>
-    <p className="about-alma-p"><b>Y. Dave</b> and <b>Heather Klawer</b> are both Registered Nurses. Heather has cared for neonates as a NICU nurse at Providence in Everett, WA for nearly 20 years. Dave has been supporting and caring for mothers, newborns, and their families since 2005. He works in Labor and Delivery, also at Providence in Everett. Heather and Dave live in the Skagit Valley where they raise their children. In addition to raising a family, working in healthcare, advocating for women’s and neonatal health, and growing community Dave and Heather Klawer tend to their young orchard and make cider. 
+    <p className="about-alma-p"> <b><em>Y. Dave</em></b> and <b><em>Heather Klawer</em></b> are both Registered Nurses. Heather has cared for neonates as a NICU nurse at Providence in Everett, WA for nearly 20 years. Dave has been supporting and caring for mothers, newborns, and their families since 2005. He works in Labor and Delivery, also at Providence in Everett. Heather and Dave live in the Skagit Valley where they raise their children. In addition to raising a family, working in healthcare, advocating for women’s and neonatal health, and growing community Dave and Heather Klawer tend to their young orchard and make cider. 
     </p>
     <div id="background-4"></div>
     <h2>When did Alma begin?</h2>
     <p className="about-alma-p">
-    In <b>2019</b>, our first commercial batch of cider was made. We make all of our ciders using only locally grown, hand picked fruit. We are so excited to be able to share our Cider with you. Cheers! 
+    In <b><em>2019</em></b>, our first commercial batch of cider was made. We make all of our ciders using only locally grown, hand picked fruit. We are so excited to be able to share our Cider with you. Cheers! 
     </p>
 
     <div id="background-5"></div>
