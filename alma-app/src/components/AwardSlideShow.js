@@ -5,6 +5,7 @@ const style = {
   width: 100,
   height: 100,
   justifyContent: 'center',
+  borderRadius: '50%',
 };
 
 function AwardSlides () {
@@ -16,6 +17,7 @@ function AwardSlides () {
       display: 'flex',
       justifyContent: 'center',
       background: 'white',
+      borderRadius: '50%',
     }}
   >
     <Carousel height={150} width={350} autoPlay={true}>
