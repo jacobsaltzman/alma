@@ -1,8 +1,8 @@
 import React from "react";
 import { Link } from 'react-router-dom';
-import banner from '/home/ickus/Development/code/alma/alma-app/src/images/banner.png';
 
-function Header(){
+
+function Header({banner}){
 
   const image = <img alt="banner" src={banner} id='banner-logo'></img>
 
