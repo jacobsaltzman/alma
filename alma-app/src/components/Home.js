@@ -1,10 +1,10 @@
 import React from "react";
-import logo from '/home/ickus/Development/code/alma/alma-app/src/images/logo_large.png'
 
 
-console.log(logo)
 
-function Home(){
+
+
+function Home({logo}){
   return (
     <div>
       <div id="home-top-div"> 

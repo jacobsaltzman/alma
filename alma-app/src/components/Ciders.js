@@ -1,11 +1,9 @@
 import React from "react";
 import AwardSlides from "./AwardSlideShow";
-import award from '/home/ickus/Development/code/alma/alma-app/src/images/award.jpg';
-import award2 from '/home/ickus/Development/code/alma/alma-app/src/images/fb_alma.jpg';
-import award3 from '/home/ickus/Development/code/alma/alma-app/src/images/award_facebook.jpg';
 
 
-function Ciders(){
+
+function Ciders({award, award2, award3}){
 
 
   return(
