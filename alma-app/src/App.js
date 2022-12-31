@@ -22,6 +22,9 @@ function App() {
         <Route exact path='/'>
           <Home logo={logo}/>
         </Route>
+        <Route path='/alma'>
+          <Home logo={logo}/>
+        </Route>
         <Route path="/about">
           <About />
         </Route>
