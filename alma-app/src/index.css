@@ -196,6 +196,7 @@ a:hover {
   text-emphasis: bold;
   font-size: 15px; 
   color: rgb(203,153,64);
+  border-radius: 15%;
 }
 
 a:active { 
@@ -351,4 +352,5 @@ b :hover{
 
 #glintcap{
   color: black;
+  
 }
