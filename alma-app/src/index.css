@@ -250,6 +250,7 @@ a:active {
 
 .flavors{
   font-style: italic;
+  font-size: smaller;
 }
 
 
@@ -324,4 +325,26 @@ b :hover{
 #awards-images img{
   max-width: 300px;
   max-height: 300px;
+}
+
+.cider-award-gold:hover{
+  color: goldenrod;
+}
+
+.cider-award-silver:hover{
+  color:gray;
+}
+
+.cider-award-bronze:hover{
+  color: rosybrown;
+}
+
+
+
+.cider-award-best:hover{
+  color: darkblue;
+}
+
+.cider-award-platinum:hover{
+  color: silver;
 }
