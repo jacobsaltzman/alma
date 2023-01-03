@@ -239,7 +239,8 @@ a:active {
 }
 
 .cider-list{
- line-height: 0;
+ line-height: 1;
+ max-width: 500px;
 }
 
 #ciders-component h3{
