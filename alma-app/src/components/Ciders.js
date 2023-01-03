@@ -16,7 +16,7 @@ function Ciders({award, award2, award3}){
           <p className="flavors">Locally grown Apples from the valley give this cider a fruit forward flavor with
 brilliant color and aromas ending with a refreshingly crisp clean finish. Enjoyable
 on its own or with meal, our Dry Cider is sure to please. ABV 7%</p>
-          <p className="cider-award-silver">-<a href="https://glintcap.org/results/commercial/medalists/alma-cider/">GLINTCAP</a>(Great Lakes International Cider and Perry competition) Award
+          <p className="cider-award-silver">-<a id="glintcap" href="https://glintcap.org/results/commercial/medalists/alma-cider/">GLINTCAP</a>(Great Lakes International Cider and Perry competition) Award
 winner- Silver Medal 2021</p>
         </div>
         <div className="cider-list-items">
@@ -26,7 +26,7 @@ which are offset by the slight sweetness of pear, honey notes abound and
 smooth out the cider in a mellow finish. Not overly sweet, just right for the palate.
 Everyone can enjoy this Semi-sweet cider, as it is the intersection of dry and
 sweet. ABV 7%</p>
-          <p className="cider-award-silver">-<a href="https://glintcap.org/results/commercial/medalists/alma-cider/">GLINTCAP</a>(Great Lakes International Cider and Perry competition) Award
+          <p className="cider-award-silver">-<a id="glintcap" href="https://glintcap.org/results/commercial/medalists/alma-cider/">GLINTCAP</a>(Great Lakes International Cider and Perry competition) Award
 winner- Silver Medal 2021</p>
         </div>
         <div className="cider-list-items">
@@ -35,8 +35,8 @@ winner- Silver Medal 2021</p>
 combined with a aromatic botanicals and hints of citrus with a subtle smooth hop
 presence that lend to a balanced and refreshing taste that can be enjoyed on a
 patio in the summer or any time of year! ABV 7%</p>
-          <p className="cider-award-gold">-Sip Magazine, “Best of the NW” Double Gold Medal- 2021</p>
-          <p className="cider-award-bronze">-<a href="https://glintcap.org/results/commercial/medalists/alma-cider/">GLINTCAP</a>(Great Lakes International Cider and Perry competition) Award
+          <p className="cider-award-gold">-<a id="glintcap" href="https://sipmagazine.com/2021-best-of-the-northwest-cider/">Sip Magazine</a>, “Best of the NW” Double Gold Medal- 2021</p>
+          <p className="cider-award-bronze">-<a id="glintcap" href="https://glintcap.org/results/commercial/medalists/alma-cider/">GLINTCAP</a>(Great Lakes International Cider and Perry competition) Award
 winner- Bronze 2021</p>
 
         </div>
@@ -49,7 +49,7 @@ carbonated. Tastes like summer in a glass. Notes of sour apple, small red
 berries, straw, and dried fruit combine to produce a wonderfully complex Single
 Varietal (SV) cider with medium body and a lasting finish.</p>
           <p className="cider-award-platinum">-Cider Craft Magazine’s “Cidercraft awards” Platinum Medal- 2020</p>
-          <p className="cider-award-silver">-<a href="https://glintcap.org/results/commercial/medalists/alma-cider/">GLINTCAP</a>(Great Lakes International Cider and Perry competition) Award
+          <p className="cider-award-silver">-<a id="glintcap" href="https://glintcap.org/results/commercial/medalists/alma-cider/">GLINTCAP</a>(Great Lakes International Cider and Perry competition) Award
 winner- Silver Medal 2021</p>
           <p className="cider-award-gold">-Sip Magazine, “Best of the NW” Gold Medal- 2022</p>
 
@@ -61,9 +61,9 @@ fermented slowly to produce a cider that is crisp, tart, and bright just like th
 apple. The cider was aged 7 months in freshly emptied Bourbon barrels. The
 result is a beautiful Single Varietal (SV) that offers oak, hints of vanilla, caramel,
 and bourbon with a long finish. Minimally filtered, light carbonation.</p>
-          <p className="cider-award-best">-<a href="https://glintcap.org/results/commercial/medalists/alma-cider/">GLINTCAP</a>(Great Lakes International Cider and Perry competition) Award
+          <p className="cider-award-best">-<a id="glintcap" href="https://glintcap.org/results/commercial/medalists/alma-cider/">GLINTCAP</a>(Great Lakes International Cider and Perry competition) Award
 winner- Best in Class 2021</p>
-          <p className="cider-award-gold">-<a href="https://glintcap.org/results/commercial/medalists/alma-cider/">GLINTCAP</a>(Great Lakes International Cider and Perry competition) Award
+          <p className="cider-award-gold">-<a id="glintcap" href="https://glintcap.org/results/commercial/medalists/alma-cider/">GLINTCAP</a>(Great Lakes International Cider and Perry competition) Award
 winner- Gold Medal 2021</p>
           <p className="cider-award-best">-Sip magazine, “Best of the NW” Judges Pick- 2022</p>
 
@@ -89,9 +89,7 @@ collaboration with friend and fellow cider maker Burro Loco.</p>
       
     </div>
 
-    <div id="awards-links">
-      <a href="https://glintcap.org/results/commercial/medalists/alma-cider/">GLINTCAP</a>
-    </div>
+  
     </div>
   )
 
