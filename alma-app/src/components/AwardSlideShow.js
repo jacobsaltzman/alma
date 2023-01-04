@@ -4,7 +4,6 @@ import { Carousel } from 'react-carousel3';
 const style = {
   width: 100,
   height: 100,
-  justifyContent: 'center',
   borderRadius: '50%',
 };
 
@@ -18,7 +17,7 @@ function AwardSlides () {
       justifyContent: 'center',
     }}
   >
-    <Carousel height={150} width={350} autoPlay={true}>
+    <Carousel height={200} width={350} autoPlay={true}>
       <div id='award1' key={1} style={style}>
         
       </div>
