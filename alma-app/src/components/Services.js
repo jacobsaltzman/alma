@@ -5,7 +5,7 @@ function Services({bsLogo}){
   return (
     <div>
 
-<h1 id="services-h1">Bitters and Sharps services</h1>
+<h1 id="services-h1">Bitters & Sharps Orchard</h1>
     <div id="services-background1"></div>
     
     <p className="services-p">We provide custom grafting, orchard planning, and consultation services. Apple sales and scion wood sales are also available.
