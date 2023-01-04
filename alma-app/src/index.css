@@ -16,6 +16,9 @@ body, html {
   display: block;
   margin-top: 60px;
   padding-bottom: 60px;
+  border-bottom: #b12f31;
+  border-bottom-width: 3px;
+  border-bottom-style: double;
 }
 
 
@@ -104,6 +107,7 @@ body, html {
     display: flex;
     line-height: 30px;
     font: sans-serif;
+
   }
 
   #services-h1{
@@ -160,7 +164,6 @@ body, html {
   .navbar{
   text-align: center;
   background-color: #333333;
-    
   }
 
   #nav-links{
@@ -327,6 +330,7 @@ b :hover{
 
 .about-alma-div h2{
   color: #b12f31;
+ text-transform: uppercase;
   
 }
 
@@ -387,6 +391,10 @@ b :hover{
   margin-left: 20px;
 }
 
+.cider-name{
+  text-transform: uppercase;
+}
+
 .cider-name:hover{
   color: white;
   box-shadow: #b12f31;
@@ -394,10 +402,15 @@ b :hover{
   transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
 }
 
+
+
 #home-bottom-div{
   align-items: center;
   justify-content: center;
   display: flex;
+  border-bottom: #b12f31;
+  border-bottom-width: 3px;
+  border-bottom-style: double;
 }
 
 .icons{
@@ -407,7 +420,7 @@ b :hover{
 }
 
 .icon{
-  background-color: black;
+  background-color: white;
   border-radius: 40%;
   margin-left: 10px;
   margin-right: 10px;
@@ -446,3 +459,10 @@ b :hover{
   padding: 5px;
 }
 
+
+.cider-list-items{
+  border-bottom: #b12f31;
+  border-bottom-width: 3px;
+  border-bottom-style: double;
+  padding-left: 10px;
+}

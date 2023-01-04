@@ -16,8 +16,6 @@ function AwardSlides () {
     style={{
       display: 'flex',
       justifyContent: 'center',
-      background: 'white',
-      borderRadius: '50%',
     }}
   >
     <Carousel height={150} width={350} autoPlay={true}>

@@ -9,7 +9,7 @@ function Ciders({award, award2, award3}){
   return(
     <div id="ciders-component">
 
-      <h3>Ciders</h3>
+      <h3>CIDERS</h3>
       <div className="cider-list">
         <div className="cider-list-items">
           <h4 className="cider-name" id="Alma-Dry">Alma Dry</h4>
@@ -79,7 +79,7 @@ collaboration with friend and fellow cider maker Burro Loco.</p>
       </div>
     
     <div id="awards-section">
-      <h3>*Awards</h3>
+      <h3>AWARDS</h3>
       <AwardSlides/>
     </div>
     <div id="awards-images">

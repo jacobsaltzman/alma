@@ -13,9 +13,10 @@ function Home({logo}){
     <section id="home">
       <div id="main-logo-div">well, hello</div>
       <img id="main-logo-image" alt="Alma Logo" src={logo} />
+      
     </section>
       <div id="home-bottom-div">
-      <h2>Graft to Glass, We Grow Cider</h2>
+      <h2>GRAFT TO GLASS, WE GROW CIDER</h2>
       </div>
     </div>
   )
