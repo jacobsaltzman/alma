@@ -15,7 +15,7 @@ function Header({banner}){
         <Link to="/ciders">Ciders</Link>
         <Link to="/services">Services</Link>
         <Link to="/retailers">Retailers</Link>
-        <Link to="/about">About Us</Link>
+        <Link to="/about">About&nbsp;Us</Link>
         <Link to="/">{image}</Link>
         </div>
 

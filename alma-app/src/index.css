@@ -9,6 +9,7 @@ body, html {
   letter-spacing: 2px;
   line-height: 2.5em;
   text-transform: none;
+  margin: auto;
 }
 
 .about-alma-div {
@@ -174,12 +175,11 @@ body, html {
     font-family: trade-gothic-next-compressed;
     font-weight: 700;
     font-style: normal;
-    font-size: 15px;
+    font-size: 12px;
     letter-spacing: .1em;
     text-transform: uppercase;
     align-self: auto;
-    flex-wrap: wrap;
-    max-width: inherit;
+    overflow-wrap: break-word;
   }
 
   a{
@@ -397,12 +397,13 @@ b :hover{
 
 
 #home-bottom-div{
-  align-items: center;
-  justify-content: center;
   display: flex;
   border-bottom: #b12f31;
   border-bottom-width: 3px;
   border-bottom-style: double;
+  overflow-wrap: break-word;
+  align-items: center;
+  justify-content: center;
 }
 
 .icons{
@@ -435,12 +436,12 @@ b :hover{
 }
 
 #ACA{
-  max-width: 170px;
+  max-width: 200px;
 
 }
 
 #contact-us{
-  margin-bottom: 10px;
+  padding-bottom: 20px;
 }
 
 #footer h4{
@@ -448,7 +449,7 @@ b :hover{
   background-color: #333333;
   max-width: fit-content;
   display: inline-block;
-  padding: 5px;
+  padding: 2px;
 }
 
 

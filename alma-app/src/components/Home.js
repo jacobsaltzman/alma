@@ -16,7 +16,7 @@ function Home({logo}){
       
     </section>
       <div id="home-bottom-div">
-      <h2>GRAFT TO GLASS, WE GROW CIDER</h2>
+      <h2>GRAFT&nbsp;TO&nbsp;GLASS, <br/> WE&nbsp;GROW&nbsp;CIDER</h2>
       </div>
     </div>
   )
