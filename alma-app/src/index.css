@@ -178,7 +178,7 @@ body, html {
     font-family: trade-gothic-next-compressed;
     font-weight: 700;
     font-style: normal;
-    font-size: 12px;
+    font-size: 10px;
     letter-spacing: .1em;
     text-transform: uppercase;
     align-self: auto;
@@ -273,7 +273,7 @@ a:active {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 100px 100px, cover;
+  background-size: cover;
 
 }
 
@@ -282,7 +282,7 @@ a:active {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 100px 100px, cover;
+  background-size: cover;
 }
 
 #award3{
@@ -290,7 +290,7 @@ a:active {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 100px 100px, cover;
+  background-size: cover;
 
 }
 
@@ -299,7 +299,7 @@ a:active {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 100px 100px, cover;
+  background-size: cover;
 
 }
 
@@ -308,7 +308,7 @@ a:active {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 100px 100px, cover;
+  background-size: cover;
 
 }
 
@@ -317,7 +317,7 @@ a:active {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 100px 100px, cover;
+  background-size: cover;
 
 }
 
