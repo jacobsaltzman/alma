@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/alma/static/css/main.20370ee7.css",
-    "main.js": "/alma/static/js/main.1757d4c4.js",
+    "main.css": "/alma/static/css/main.270e8eb7.css",
+    "main.js": "/alma/static/js/main.2d85e763.js",
     "static/js/787.cd44fec5.chunk.js": "/alma/static/js/787.cd44fec5.chunk.js",
     "static/media/stem7.jpg": "/alma/static/media/stem7.36a6bae393ee06dd5ad2.jpg",
     "static/media/stem2.jpg": "/alma/static/media/stem2.3b4e6bfa262e87d822f9.jpg",
@@ -19,18 +19,22 @@
     "static/media/award4.jpg": "/alma/static/media/award4.1c6162cf9d326c7279fb.jpg",
     "static/media/award3.jpg": "/alma/static/media/award3.56313273ce01bb414b26.jpg",
     "static/media/award2.jpg": "/alma/static/media/award2.616f616284f0330e0d30.jpg",
+    "static/media/affiliation.png": "/alma/static/media/affiliation.3b09c1aa5152ec46bf4b.png",
     "static/media/logo_large.png": "/alma/static/media/logo_large.df62bc74f42dbdd74ad0.png",
     "static/media/award6.png": "/alma/static/media/award6.900c6d635ca7df0ba405.png",
+    "static/media/affiliation3.png": "/alma/static/media/affiliation3.91cf39fc87bcb1eb3fca.png",
     "static/media/award7.png": "/alma/static/media/award7.4faab491e20679cf19f7.png",
     "static/media/fb_alma.jpg": "/alma/static/media/fb_alma.edb86976a9a5ba4c3bb2.jpg",
+    "static/media/affiliation2.png": "/alma/static/media/affiliation2.906ee36a8dc733ea0a8e.png",
+    "static/media/affiliation4.png": "/alma/static/media/affiliation4.64a6c82f691c8af94dc3.png",
     "static/media/BSlogo.png": "/alma/static/media/BSlogo.b592c5773d08f29e1e05.png",
     "index.html": "/alma/index.html",
-    "main.20370ee7.css.map": "/alma/static/css/main.20370ee7.css.map",
-    "main.1757d4c4.js.map": "/alma/static/js/main.1757d4c4.js.map",
+    "main.270e8eb7.css.map": "/alma/static/css/main.270e8eb7.css.map",
+    "main.2d85e763.js.map": "/alma/static/js/main.2d85e763.js.map",
     "787.cd44fec5.chunk.js.map": "/alma/static/js/787.cd44fec5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20370ee7.css",
-    "static/js/main.1757d4c4.js"
+    "static/css/main.270e8eb7.css",
+    "static/js/main.2d85e763.js"
   ]
 }
