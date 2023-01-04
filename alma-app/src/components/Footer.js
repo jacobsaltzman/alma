@@ -11,9 +11,9 @@ function Footer(){
     <section id="footer">
       <div id="contact-us">
            <h4>Contact</h4>
-           <p>
-            info@almacider.com <br/>
-            425.312.5734</p>
+            <a href="mailto:info@almacider.com">info@almacider.com</a> 
+            <br/>
+            <a href="tel:425.312.5734">(425) 312-5734</a>
       </div>
       <div id="partners">
         
@@ -21,11 +21,15 @@ function Footer(){
       <div id="social-media">
       <h4>Connect</h4>
         <div className="icons">
-        <SocialIcon url="https://www.facebook.com/almaciderco/" style={{ height: 20, width: 20 }}/>
-        <SocialIcon url="https://www.instagram.com/almaciderco/" style={{ height: 20, width: 20 }} />
-        <SocialIcon network="mailto" url="info@almacider.com" style={{ height: 20, width: 20 }} />
-        <SocialIcon url="https://www.youtube.com/watch?v=GPmrh-3Xdi0&ab_channel=CiderChat" style={{ height: 20, width: 20 }} />
-        <SocialIcon url="https://twitter.com/AlmaCider" style={{ height: 20, width: 20 }} />
+        <SocialIcon url="https://www.facebook.com/almaciderco/" style={{ height: 8, width: 8 }}/>
+        <div></div>
+        <SocialIcon url="https://www.instagram.com/almaciderco/" style={{ height: 8, width: 8 }} />
+        <div></div>
+        <SocialIcon network="mailto" url="mailto:info@almacider.com" style={{ height: 8, width: 8 }} />
+        <div></div>
+        <SocialIcon url="https://www.youtube.com/watch?v=GPmrh-3Xdi0&ab_channel=CiderChat" style={{ height: 8, width: 8 }} />
+        <div></div>
+        <SocialIcon url="https://twitter.com/AlmaCider" style={{ height: 8, width: 8 }} />
         </div>
       </div>
     </section>

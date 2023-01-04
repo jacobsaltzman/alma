@@ -397,3 +397,8 @@ b :hover{
   justify-content: center;
   display: flex;
 }
+
+.icons{
+  display: flex;
+  justify-content: center;
+}
