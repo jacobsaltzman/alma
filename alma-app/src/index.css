@@ -98,8 +98,9 @@ body, html {
     font-size: 20px;
     align-self: start;
     align-content: center;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    
     display: flex;
     line-height: 30px;
     font: sans-serif;
@@ -261,6 +262,8 @@ a:active {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  max-width: 100px;
+  max-height: 100px;
 }
 
 #award2{
@@ -269,6 +272,8 @@ a:active {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  max-width: 100px;
+  max-height: 100px;
 }
 
 #award3{
@@ -277,6 +282,8 @@ a:active {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  max-width: 100px;
+  max-height: 100px;
 }
 
 #award4{
@@ -285,6 +292,8 @@ a:active {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  max-width: 100px;
+  max-height: 100px;
 }
 
 #award5{
@@ -293,6 +302,8 @@ a:active {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  max-width: 100px;
+  max-height: 100px;
 }
 
 #award6{
@@ -301,6 +312,8 @@ a:active {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  max-width: 100px;
+  max-height: 100px;
 }
 
 
@@ -328,29 +341,59 @@ b :hover{
   max-height: 300px;
 }
 
-.cider-award-gold:hover{
+.cider-award.gold:hover{
   color: goldenrod;
 }
 
-.cider-award-silver:hover{
+.cider-award.silver:hover{
   color:gray;
 }
 
-.cider-award-bronze:hover{
+.cider-award.bronze:hover{
   color: rosybrown;
 }
 
 
 
-.cider-award-best:hover{
+.cider-award.best:hover{
   color: darkblue;
 }
 
-.cider-award-platinum:hover{
+.cider-award.platinum:hover{
   color: silver;
 }
 
 #glintcap{
   color: black;
   
+}
+
+#bs-logo{
+  display: flex;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: auto;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.cider-award {
+  font-size: small;
+  margin-left: 20px;
+}
+
+.cider-name:hover{
+  color: white;
+  box-shadow: darkred;
+  background-color: darkred;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+
+#home-bottom-div{
+  align-items: center;
+  justify-content: center;
+  display: flex;
 }

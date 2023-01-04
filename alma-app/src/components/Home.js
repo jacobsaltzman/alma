@@ -15,7 +15,7 @@ function Home({logo}){
       <img id="main-logo-image" alt="Alma Logo" src={logo} />
     </section>
       <div id="home-bottom-div">
-      <h6>Insert tagline, catch-phrase, or moto...</h6>
+      <h2>Graft to Glass, We Grow Cider</h2>
       </div>
     </div>
   )

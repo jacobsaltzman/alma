@@ -1,6 +1,6 @@
 import React from "react";
 
-function Services(){
+function Services({bsLogo}){
 
   return (
     <div>
@@ -20,7 +20,7 @@ We source certified virus free rootstock regionally, from a third generation fam
     Information on specific cultivars can be provided upon request. Send us an email with your objectives and we can work with you to create a plan to best meet your needs. We also offer full orchard consultations services from orchard planning, installation, maintenance, to integrated pest management (IPM) solutions and spray schedules for organic and conventional orcharding.
     </p>
     <div id="services-background4"></div>
-
+    <div id="bs-logo"><img alt="bitter and sharps logo" src={bsLogo}></img></div>
     </div>
   )
 }

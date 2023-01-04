@@ -13,6 +13,7 @@ import award from './images/award.jpg';
 import award2 from './images/fb_alma.jpg';
 import award3 from './images/award_facebook.jpg';
 import logo from './images/logo_large.png'
+import bsLogo from './images/BSlogo.png'
 
 function App() {
   return (
@@ -29,7 +30,7 @@ function App() {
           <About />
         </Route>
         <Route path="/services">
-          <Services />
+          <Services bsLogo={bsLogo} />
         </Route>
         <Route path="/ciders">
           <Ciders award={award} award2={award2} award3={award3}/>
