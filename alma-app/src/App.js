@@ -14,6 +14,10 @@ import award2 from './images/fb_alma.jpg';
 import award3 from './images/award_facebook.jpg';
 import logo from './images/logo_large.png'
 import bsLogo from './images/BSlogo.png'
+import asso from "./images/affiliation.png";
+import asso2 from "./images/affiliation2.png";
+import asso3 from "./images/affiliation3.png";
+import asso4 from "./images/affiliation4.png";
 
 function App() {
   return (
@@ -39,7 +43,7 @@ function App() {
           <Retailers />
         </Route>
       </Switch>
-      <Footer />
+      <Footer asso={asso} asso2={asso2} asso3={asso3} asso4={asso4}/>
     </div>
   );
 }
