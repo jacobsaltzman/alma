@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/alma/static/css/main.270e8eb7.css",
-    "main.js": "/alma/static/js/main.2d85e763.js",
+    "main.css": "/alma/static/css/main.4fa5dd67.css",
+    "main.js": "/alma/static/js/main.cc18976d.js",
     "static/js/787.cd44fec5.chunk.js": "/alma/static/js/787.cd44fec5.chunk.js",
     "static/media/stem7.jpg": "/alma/static/media/stem7.36a6bae393ee06dd5ad2.jpg",
     "static/media/stem2.jpg": "/alma/static/media/stem2.3b4e6bfa262e87d822f9.jpg",
@@ -29,12 +29,12 @@
     "static/media/affiliation4.png": "/alma/static/media/affiliation4.64a6c82f691c8af94dc3.png",
     "static/media/BSlogo.png": "/alma/static/media/BSlogo.b592c5773d08f29e1e05.png",
     "index.html": "/alma/index.html",
-    "main.270e8eb7.css.map": "/alma/static/css/main.270e8eb7.css.map",
-    "main.2d85e763.js.map": "/alma/static/js/main.2d85e763.js.map",
+    "main.4fa5dd67.css.map": "/alma/static/css/main.4fa5dd67.css.map",
+    "main.cc18976d.js.map": "/alma/static/js/main.cc18976d.js.map",
     "787.cd44fec5.chunk.js.map": "/alma/static/js/787.cd44fec5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.270e8eb7.css",
-    "static/js/main.2d85e763.js"
+    "static/css/main.4fa5dd67.css",
+    "static/js/main.cc18976d.js"
   ]
 }
