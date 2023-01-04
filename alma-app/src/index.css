@@ -273,7 +273,8 @@ a:active {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100px 100px, cover;
+
 }
 
 #award2{
@@ -281,7 +282,7 @@ a:active {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100px 100px, cover;
 }
 
 #award3{
@@ -289,7 +290,7 @@ a:active {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100px 100px, cover;
 
 }
 
@@ -298,7 +299,7 @@ a:active {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100px 100px, cover;
 
 }
 
@@ -307,7 +308,7 @@ a:active {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100px 100px, cover;
 
 }
 
@@ -316,7 +317,7 @@ a:active {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100px 100px, cover;
 
 }
 

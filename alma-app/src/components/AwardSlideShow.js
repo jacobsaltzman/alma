@@ -2,8 +2,8 @@ import React from 'react';
 import { Carousel } from 'react-carousel3';
 
 const style = {
-  width: 100,
-  height: 100,
+  width: '100px',
+  height: '100px',
   borderRadius: '50%',
 };
 
