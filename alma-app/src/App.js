@@ -18,6 +18,11 @@ import asso from "./images/affiliation.png";
 import asso2 from "./images/affiliation2.png";
 import asso3 from "./images/affiliation3.png";
 import asso4 from "./images/affiliation4.png";
+import bottles from './images/cider_facebook2.jpg';
+import appleBin from './images/apple_bin2.jpg';
+import ciderGlass from './images/fb_alma5.jpg';
+import bottles2 from './images/cider_facebook.jpg';
+import daveAward from './images/dave_award_fb.jpg'
 
 function App() {
   return (
@@ -37,7 +42,7 @@ function App() {
           <Services bsLogo={bsLogo} />
         </Route>
         <Route path="/ciders">
-          <Ciders award={award} award2={award2} award3={award3}/>
+          <Ciders daveAward={daveAward} bottles2={bottles2} ciderGlass={ciderGlass} appleBin={appleBin} award={award} award2={award2} award3={award3} bottles={bottles}/>
         </Route>
         <Route path='/retailers'>
           <Retailers />

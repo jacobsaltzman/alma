@@ -1,9 +1,10 @@
 import React from "react";
 import AwardSlides from "./AwardSlideShow";
+import CiderSlideShow from "./CiderSlideShow";
 
 
 
-function Ciders({award, award2, award3}){
+function Ciders({daveAward, award, award2, award3, bottles, appleBin, ciderGlass, bottles2}){
 
 
   return(
@@ -78,17 +79,14 @@ collaboration with friend and fellow cider maker Burro Loco.</p>
         </div>
       </div>
     
-    <div id="awards-section">
-      <h3>AWARDS</h3>
-      <AwardSlides/>
-    </div>
     <div id="awards-images">
-      <img alt="rose award" src={award}></img>
-      <img alt="hopped award" src={award3}></img>
-      <img alt="wood award" src={award2}></img>
+      <CiderSlideShow daveAward={daveAward} bottles2={bottles2} ciderGlass={ciderGlass} appleBin={appleBin} bottles={bottles} award={award} award3={award3} award2={award2}/>
       
     </div>
-
+    
+    <div id="awards-section">
+      <AwardSlides/>
+    </div>
   
     </div>
   )
