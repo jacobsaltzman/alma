@@ -12,6 +12,7 @@ export default function CiderSlideShow({daveAward, ciderGlass, appleBin, award, 
     slidesToScroll: 1
   };
   return (
+  <div id="slider-component">
     <Slider {...settings}>
         <div className="cider-slide">
           <img alt="cider bottles" src={bottles}></img>
@@ -41,5 +42,6 @@ export default function CiderSlideShow({daveAward, ciderGlass, appleBin, award, 
           <img alt="apple bin" src={appleBin}></img>
         </div>
     </Slider>
+    </div>
   );
 }
