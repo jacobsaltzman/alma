@@ -485,3 +485,27 @@ b :hover{
   padding-left: 10px;
   letter-spacing: normal;
 }
+
+
+#alma-map{
+  justify-content: center;
+  align-content: center;
+  margin: auto;
+  max-width: 100%;
+  max-height: auto;
+}
+
+#retailers p{
+  border-bottom: #b12f31;
+  border-bottom-width: 3px;
+  border-bottom-style: double;
+  margin: 5 auto;
+  max-width: 680px;
+  padding-left: 25px;
+    padding-right: 25px;
+
+    display: flex;
+    line-height: 30px;
+    letter-spacing: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
