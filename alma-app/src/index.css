@@ -496,20 +496,57 @@ b :hover{
 }
 
 #retailers p{
-  border-bottom: #b12f31;
-  border-bottom-width: 3px;
-  border-bottom-style: double;
   margin: 5 auto;
-  max-width: 680px;
+  max-width: 650px;
   padding-left: 25px;
-    padding-right: 25px;
-
-    display: flex;
-    line-height: 30px;
-    letter-spacing: normal;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding-right: 25px;
+  display: flex;
+  line-height: 30px;
+  letter-spacing: normal;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #retailers a{
-  color: #b12f31;
+  width: 250px;
+  margin: .5rem;
+  border-radius: 20px;
+  padding: 10px;
+  border: 2px;
+  border-style: solid;
+  box-shadow: #ffffff;
+  background-color: #ffffff;
+  font-variant: small-caps;
+  margin-left: 25px;
+}
+
+#retailers h3{
+  font-family: cursive;
+  font-size: smaller;
+  padding-right: 50px;
+  padding-left: 10px;
+  text-align: center;
+}
+
+#retailers h2{
+  font-style: italic;
+  font-family: cursive;
+  margin-left: 10px;
+}
+
+#retailers h6{
+  margin-left: 25px;
+  word-break: break-all;
+}
+
+#alma-map-div{
+  margin: 0 auto;
+  justify-content: center;
+  align-content: center;
+  max-width: fit-content;
+}
+
+#alma-retailers-p{
+  align-content: center;
+  display: flex;
+  justify-content: center;
 }
