@@ -1,6 +1,6 @@
 import React from "react";
 
-function About(){
+function About({almaMap}){
 
   return (
     <div className="about-alma-div">
@@ -15,6 +15,7 @@ function About(){
     <div id="background-2"></div>
     <h2>Where is Alma?</h2>
     <p className="about-alma-p">Alma Cider is a family operated orchard and boutique fermented cider company in <b><em>Mount Vernon, WA</em></b>. Here on the westside of the Cascade mountain range in Washington, we are fortunate enough to live in a microclimate that is extremely well suited for growing cider fruit. Combined with rich native soils formed by our resident volcanoes, glaciers, and rivers we can deliver the gold standard for cider fruit and hope to be able to make world class cider.
+     <div><img id="alma-map" alt="alma map" src={almaMap}></img></div>
     </p>
     <div id="background-2"></div>
     <h2>What does Alma mean to us?</h2>

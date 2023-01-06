@@ -22,7 +22,9 @@ import bottles from './images/cider_facebook2.jpg';
 import appleBin from './images/apple_bin2.jpg';
 import ciderGlass from './images/fb_alma5.jpg';
 import bottles2 from './images/cider_facebook.jpg';
-import daveAward from './images/dave_award_fb.jpg'
+import daveAward from './images/dave_award_fb.jpg';
+import almaMap from './images/AlmaMapLogo.jpg';
+
 
 function App() {
   return (
@@ -36,7 +38,7 @@ function App() {
           <Home logo={logo}/>
         </Route>
         <Route path="/about">
-          <About />
+          <About almaMap={almaMap} />
         </Route>
         <Route path="/services">
           <Services bsLogo={bsLogo} />
