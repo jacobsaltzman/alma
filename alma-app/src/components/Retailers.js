@@ -10,8 +10,11 @@ function Retailers(){
       
       <div id="online-retailers">
       <h3>Also available through online retailers:  </h3>
-        <p> <a href="https://www.pressthenpress.com/collections/alma-cider">Press Then Press</a> The online retailer of rare, independent, local and craft ciders. Beautifully curated selection of domestic and imported ciders on an easy to navigate website. Delivered or shipped from Seattle! <br/> https://www.pressthenpress.com/collections/alma-cider</p>
-        <p><a href="https://www.compasswines.com/cider-28/">Compass Wines</a> Compass Wines in Anacortes, Washington also offers a selection of rare and hard to find wines from Washington, including our Alma Quince Cider available for shipping! <br/>  https://www.compasswines.com/cider-28/ </p>
+        <a href="https://www.pressthenpress.com/collections/alma-cider">Press Then Press</a>
+        <p>The online retailer of rare, independent, local and craft ciders. Beautifully curated selection of domestic and imported ciders on an easy to navigate website. Delivered or shipped from Seattle!</p>
+
+        <a href="https://www.compasswines.com/cider-28/">Compass Wines</a>
+        <p> Compass Wines in Anacortes, Washington also offers a selection of rare and hard to find wines from Washington, including our Alma Quince Cider available for shipping! <br/> </p>
 
       </div>
     </div>
