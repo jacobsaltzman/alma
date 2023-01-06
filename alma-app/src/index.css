@@ -67,17 +67,18 @@ body, html {
     z-index: -1;
   }
   #background-4 {
-    background-image: url(./images/dave3.jpg);
-    height: 400px;
+    background-image: url(./images/pear2.jpg);
+    height: 300px;
     
+    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     z-index: -1;
   }
 
   #background-5 {
-    background-image: url(./images/apple_tree3.jpg);
+    background-image: url(./images/apple_bin.jpg);
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -566,4 +567,12 @@ margin-left: 10px;
   border-color: rgb(180,126,40);
   border-style: solid;
   margin-top: 10px;
+}
+
+#grid-gallery{
+  width: 100%;
+  background-image: url(./images/apple_facebook2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+
 }

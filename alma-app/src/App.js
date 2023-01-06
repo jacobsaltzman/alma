@@ -24,6 +24,84 @@ import ciderGlass from './images/fb_alma5.jpg';
 import bottles2 from './images/cider_facebook.jpg';
 import daveAward from './images/dave_award_fb.jpg';
 import almaMap from './images/AlmaMapLogo.jpg';
+import family from './images/dave3.jpg';
+import family2 from './images/daves_kid.jpg';
+import family3 from "./images/daves_kid2.jpg";
+import family4 from './images/apple_bag.jpg';
+import family5 from './images/apple_bag2.jpg';
+import family6 from './images/apple.jpg';
+import family7 from './images/apple2.jpg';
+import family8 from './images/cider_facebook3.jpg';
+import family9 from './images/cider4.jpg';
+import family10 from './images/cider.jpg';
+import family11 from './images/dave2.jpg';
+
+
+
+
+
+const images = [
+  {
+     src: family,
+     width: 100,
+     height: 100,
+     caption: "Dave and Heather and their children",
+  },
+  {
+     src: family2,
+     width: 320,
+     height: 212,
+    
+  },
+  {
+     src: family3,
+     width: 220,
+     height: 300,
+  },
+  {
+    src: family4,
+    width: 220,
+    height: 212,
+ },
+
+{
+  src: family6,
+  width: 320,
+  height: 212,
+},
+{
+  src: family11,
+  width: 320,
+  height: 212,
+},
+{
+  src: family7,
+  width: 320,
+  height: 212,
+},
+{
+  src: family9,
+  width: 200,
+  height: 300,
+},
+{
+  src: family8,
+  width: 320,
+  height: 200,
+},
+
+{
+  src: family10,
+  width: 200,
+  height: 212,
+},
+{
+  src: family5,
+  width: 200,
+  height: 212,
+},
+
+];
 
 
 function App() {
@@ -38,7 +116,7 @@ function App() {
           <Home logo={logo}/>
         </Route>
         <Route path="/about">
-          <About almaMap={almaMap} />
+          <About almaMap={almaMap} images={images}/>
         </Route>
         <Route path="/services">
           <Services bsLogo={bsLogo} />
