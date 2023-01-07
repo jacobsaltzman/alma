@@ -31,8 +31,8 @@ function About({almaMap, images}){
   
     <h2>Where is Alma?</h2>
     <p className="about-alma-p">Alma Cider is a family operated orchard and boutique fermented cider company in <b><em>Mount Vernon, WA</em></b>. Here on the westside of the Cascade mountain range in Washington, we are fortunate enough to live in a microclimate that is extremely well suited for growing cider fruit. Combined with rich native soils formed by our resident volcanoes, glaciers, and rivers we can deliver the gold standard for cider fruit and hope to be able to make world class cider.
-     <div><img id="alma-map" alt="alma map" src={almaMap}></img></div>
     </p>
+    <div><img id="alma-map" alt="alma map" src={almaMap}></img></div>
     <div id="background-4"></div>
     <h2>When did Alma begin?</h2>
     <p className="about-alma-p">

@@ -28,6 +28,7 @@ body, html {
     z-index: -1;
     font-size: 20px;
     background-color: #ffffff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     line-height: 30px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding-left: 15px;
@@ -44,6 +45,7 @@ body, html {
   #background-1 {
     background-image: url(./images/apple_tree.jpg);
     height: 300px;
+    max-width: 100%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -56,6 +58,7 @@ body, html {
   #background-10 {
     background-image: url(./images/apple_tree9.jpg);
     height: 300px;
+    max-width: 100%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -67,6 +70,7 @@ body, html {
   #background-2 {
     background-image: url(./images/apple_tree6.jpg);
     height: 300px;
+    max-width: 100%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -79,6 +83,7 @@ body, html {
   #background-3 {
     background-image: url(./images/apple_facebook.jpg);
     height: 300px;
+    max-width: 100%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -88,6 +93,7 @@ body, html {
   #background-4 {
     background-image: url(./images/pear2.jpg);
     height: 300px;
+    max-width: 100%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -99,6 +105,7 @@ body, html {
   #background-5 {
     background-image: url(./images/apple_bin.jpg);
     height: 300px;
+    max-width: 100%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -110,6 +117,7 @@ body, html {
   #background-6 {
     background-image: url(./images/apple_facebook2.jpg);
     height: 300px;
+    max-width: 100%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -132,6 +140,7 @@ body, html {
     height: fit-content;
     background-color: #ffffff;
     border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     z-index: -1;
     font-size: 20px;
     align-self: start;
@@ -162,6 +171,8 @@ body, html {
     
     background-image: url(./images/stem2.jpg);
     height: 450px;
+    max-width: 100%;
+
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -171,7 +182,9 @@ body, html {
   #services-background2 {
     
     background-image: url(./images/stem7.jpg);
-    height: 600px;
+    height: 500px;
+    max-width: 100%;
+
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -180,7 +193,9 @@ body, html {
   }
   #services-background3 {
     background-image: url(./images/stem.jpg);
-    height: 600px;
+    height: 500px;
+    max-width: 100%;
+
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -193,7 +208,9 @@ body, html {
 
 #services-background4 {
     background-image: url(./images/stem3.jpg);
-    height: 600px;
+    height: 500px;
+    max-width: 100%;
+
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -313,37 +330,36 @@ a:active {
   background-image: url(./images/award2.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: contain;
-
+  background-size: cover;
+  max-width: 100%;
+  height: auto;
 }
 
 #award2{
   background-image: url(./images/award3.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: contain;
-  max-width: 100px;
-  max-height: 100px;
+  background-size: cover;
+  max-width: 100%;
+  height: auto;
 }
 
 #award3{
   background-image: url(./images/award4.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: contain;
-  max-width: 100px;
-  max-height: 100px;
-
+  background-size: cover;
+  max-width: 100%;
+  height: auto;
 }
 
 #award4{
   background-image: url(./images/award5.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: contain;
-  max-width: 100px;
-  max-height: 100px;
-
+  background-size: cover;
+  max-width: 100%;
+  height: auto;
 }
 
 #award5{
@@ -351,19 +367,18 @@ a:active {
   background-attachment: fixed;
 
   background-repeat: no-repeat;
-  background-size: contain;
-  max-width: 100px;
-  max-height: 100px;
-
+  background-size: cover;
+  max-width: 100%;
+  height: auto;
 }
 
 #award6{
   background-image: url(./images/award7.png);
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: contain;
-  max-width: 100px;
-  max-height: 100px;
+  background-size: cover;
+  max-width: 100%;
+  height: auto;
 }
 
 
@@ -599,7 +614,7 @@ margin-left: 10px;
 
 
 #alma-map{
-  border-radius: 15%;
+  border-radius: 10%;
   border-color: rgb(180,126,40);
   border-style: solid;
   margin-top: 10px;
@@ -607,10 +622,7 @@ margin-left: 10px;
 
 #grid-gallery{
   width: 100%;
-
-  border-color: rgb(180,126,40);
-  border-style: solid;
-
+background-color: #ffffff;
 }
 
 
