@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/alma/static/css/main.7adb7431.css",
-    "main.js": "/alma/static/js/main.ed87837e.js",
+    "main.css": "/alma/static/css/main.3bd9d60a.css",
+    "main.js": "/alma/static/js/main.6d31b954.js",
     "static/js/787.cd44fec5.chunk.js": "/alma/static/js/787.cd44fec5.chunk.js",
     "static/media/apple_bin.jpg": "/alma/static/media/apple_bin.be78ef1c2207dfe971af.jpg",
     "static/media/daves_kid2.jpg": "/alma/static/media/daves_kid2.96935659f0e65df11b8e.jpg",
@@ -9,6 +9,7 @@
     "static/media/apple_bin2.jpg": "/alma/static/media/apple_bin2.969614a787b10af9dcae.jpg",
     "static/media/stem2.jpg": "/alma/static/media/stem2.3b4e6bfa262e87d822f9.jpg",
     "static/media/apple_bag2.jpg": "/alma/static/media/apple_bag2.48cd1ef207bb90557af7.jpg",
+    "static/media/apple_tree9.jpg": "/alma/static/media/apple_tree9.5eb5f57cc254c262c95b.jpg",
     "static/media/stem3.jpg": "/alma/static/media/stem3.a035b2602a8d039b1d80.jpg",
     "static/media/daves_kid.jpg": "/alma/static/media/daves_kid.fb39fdcba90ceba585b2.jpg",
     "static/media/dave3.jpg": "/alma/static/media/dave3.fb64f41da9bf6525ac67.jpg",
@@ -33,6 +34,7 @@
     "static/media/award3.jpg": "/alma/static/media/award3.56313273ce01bb414b26.jpg",
     "static/media/award2.jpg": "/alma/static/media/award2.616f616284f0330e0d30.jpg",
     "static/media/cider_facebook2.jpg": "/alma/static/media/cider_facebook2.0567930b4709252955fb.jpg",
+    "static/media/apple_facebook.jpg": "/alma/static/media/apple_facebook.76792df4a00c33757c1b.jpg",
     "static/media/affiliation.png": "/alma/static/media/affiliation.3b09c1aa5152ec46bf4b.png",
     "static/media/logo_large.png": "/alma/static/media/logo_large.df62bc74f42dbdd74ad0.png",
     "static/media/award6.png": "/alma/static/media/award6.900c6d635ca7df0ba405.png",
@@ -50,12 +52,12 @@
     "static/media/slick.ttf": "/alma/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/alma/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/alma/index.html",
-    "main.7adb7431.css.map": "/alma/static/css/main.7adb7431.css.map",
-    "main.ed87837e.js.map": "/alma/static/js/main.ed87837e.js.map",
+    "main.3bd9d60a.css.map": "/alma/static/css/main.3bd9d60a.css.map",
+    "main.6d31b954.js.map": "/alma/static/js/main.6d31b954.js.map",
     "787.cd44fec5.chunk.js.map": "/alma/static/js/787.cd44fec5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7adb7431.css",
-    "static/js/main.ed87837e.js"
+    "static/css/main.3bd9d60a.css",
+    "static/js/main.6d31b954.js"
   ]
 }
