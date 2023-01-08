@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/alma/static/css/main.93fc8303.css",
-    "main.js": "/alma/static/js/main.4cd0f695.js",
+    "main.css": "/alma/static/css/main.3e4bc5b6.css",
+    "main.js": "/alma/static/js/main.cdfb8c18.js",
     "static/js/787.cd44fec5.chunk.js": "/alma/static/js/787.cd44fec5.chunk.js",
     "static/media/apple_bin.jpg": "/alma/static/media/apple_bin.be78ef1c2207dfe971af.jpg",
     "static/media/daves_kid2.jpg": "/alma/static/media/daves_kid2.96935659f0e65df11b8e.jpg",
@@ -39,6 +39,7 @@
     "static/media/logo_large.png": "/alma/static/media/logo_large.df62bc74f42dbdd74ad0.png",
     "static/media/award6.png": "/alma/static/media/award6.900c6d635ca7df0ba405.png",
     "static/media/affiliation3.png": "/alma/static/media/affiliation3.91cf39fc87bcb1eb3fca.png",
+    "static/media/dave.jpg": "/alma/static/media/dave.d9805664840689710b03.jpg",
     "static/media/award7.png": "/alma/static/media/award7.4faab491e20679cf19f7.png",
     "static/media/fb_alma5.jpg": "/alma/static/media/fb_alma5.fae03a1c1fcef7c2b43e.jpg",
     "static/media/fb_alma.jpg": "/alma/static/media/fb_alma.edb86976a9a5ba4c3bb2.jpg",
@@ -52,12 +53,12 @@
     "static/media/slick.ttf": "/alma/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/alma/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/alma/index.html",
-    "main.93fc8303.css.map": "/alma/static/css/main.93fc8303.css.map",
-    "main.4cd0f695.js.map": "/alma/static/js/main.4cd0f695.js.map",
+    "main.3e4bc5b6.css.map": "/alma/static/css/main.3e4bc5b6.css.map",
+    "main.cdfb8c18.js.map": "/alma/static/js/main.cdfb8c18.js.map",
     "787.cd44fec5.chunk.js.map": "/alma/static/js/787.cd44fec5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.93fc8303.css",
-    "static/js/main.4cd0f695.js"
+    "static/css/main.3e4bc5b6.css",
+    "static/js/main.cdfb8c18.js"
   ]
 }
