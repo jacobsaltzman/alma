@@ -40,6 +40,12 @@ function Footer({asso, asso2, asso3, asso4}){
             <br/>
             <a href="tel:425.312.5734">(425) 312-5734</a>
       </div>
+      <div id="built-by">
+        <div>
+        <p>Website By:</p>
+          <a href="https://www.linkedin.com/in/jacob-saltzman/">Jacob Saltzman</a>
+        </div>
+      </div>
     </section>
   )
 }

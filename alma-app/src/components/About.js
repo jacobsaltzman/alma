@@ -2,7 +2,7 @@ import React from "react";
 import { Gallery } from "react-grid-gallery";
 
 
-function About({almaMap, images}){
+function About({almaMap, images, dave}){
 
   return (
     <div className="about-alma-div">
@@ -39,7 +39,11 @@ function About({almaMap, images}){
     In <b><em>2019</em></b>, our first commercial batch of cider was made. We make all of our ciders using only locally grown, hand picked fruit. We are so excited to be able to share our Cider with you. Cheers! 
     </p>
     <div id="background-5"></div>
-    <h5>We hope you enjoy Alma Cider! As it is truly a labor of love.</h5>
+    <div id="dave-bottom">
+    <img alt="Happy Dave" src={dave}></img>
+    <h5>"We hope you enjoy Alma Cider! As it is truly a labor of love."</h5>
+    <h6>-Dave, Alma Owner</h6>
+    </div>
     </div>
   )
 }

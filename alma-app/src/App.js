@@ -35,6 +35,7 @@ import family8 from './images/cider_facebook3.jpg';
 import family9 from './images/cider4.jpg';
 import family10 from './images/cider.jpg';
 import family11 from './images/dave2.jpg';
+import dave from './images/dave.jpg';
 
 
 
@@ -116,7 +117,7 @@ function App() {
           <Home logo={logo}/>
         </Route>
         <Route path="/about">
-          <About almaMap={almaMap} images={images}/>
+          <About almaMap={almaMap} images={images} dave={dave}/>
         </Route>
         <Route path="/services">
           <Services bsLogo={bsLogo} />
