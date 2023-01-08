@@ -46,7 +46,6 @@ body, html {
     background-image: url(./images/apple_tree.jpg);
     height: 300px;
     max-width: 100%;
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -59,7 +58,6 @@ body, html {
     background-image: url(./images/apple_tree9.jpg);
     height: 300px;
     max-width: 100%;
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -71,7 +69,6 @@ body, html {
     background-image: url(./images/apple_tree6.jpg);
     height: 300px;
     max-width: 100%;
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -84,7 +81,6 @@ body, html {
     background-image: url(./images/apple_facebook.jpg);
     height: 300px;
     max-width: 100%;
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -94,7 +90,6 @@ body, html {
     background-image: url(./images/pear2.jpg);
     height: 300px;
     max-width: 100%;
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -106,7 +101,6 @@ body, html {
     background-image: url(./images/apple_bin.jpg);
     height: 300px;
     max-width: 100%;
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -118,7 +112,6 @@ body, html {
     background-image: url(./images/apple_facebook2.jpg);
     height: 300px;
     max-width: 100%;
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -175,48 +168,43 @@ body, html {
   #services-background1 {
     
     background-image: url(./images/stem2.jpg);
-    height: 450px;
+    height: 400px;
     max-width: 100%;
-
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    z-index: -1;
   }
-  #services-background2 {
-    
+  #services-background4 {
+    padding: none;
+    margin: none;
     background-image: url(./images/stem7.jpg);
-    height: 500px;
-    max-width: 100%;
-
-    background-attachment: fixed;
+    height: 600px;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
-    z-index: -1;
+    background-size: contain;
   }
+
+
+
+ 
+
   #services-background3 {
     background-image: url(./images/stem.jpg);
-    height: 500px;
+    height: 300px;
     max-width: 100%;
-
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    z-index: -1;
+
   }
 
   
 
 
-#services-background4 {
+#services-background2 {
     background-image: url(./images/stem3.jpg);
-    height: 500px;
+    height: 300px;
     max-width: 100%;
-
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -333,7 +321,6 @@ a:active {
 
 #award1{
   background-image: url(./images/award2.jpg);
-  background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 100%;
@@ -342,7 +329,6 @@ a:active {
 
 #award2{
   background-image: url(./images/award3.jpg);
-  background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 100%;
@@ -351,7 +337,6 @@ a:active {
 
 #award3{
   background-image: url(./images/award4.jpg);
-  background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 100%;
@@ -360,7 +345,6 @@ a:active {
 
 #award4{
   background-image: url(./images/award5.jpg);
-  background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 100%;
@@ -369,8 +353,6 @@ a:active {
 
 #award5{
   background-image: url(./images/award6.png);
-  background-attachment: fixed;
-
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 100%;
@@ -379,7 +361,6 @@ a:active {
 
 #award6{
   background-image: url(./images/award7.png);
-  background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 100%;
