@@ -9,6 +9,7 @@ body, html {
   letter-spacing: 2px;
   line-height: 2.5em;
   text-transform: none;
+  margin: auto;
 }
 
 .about-alma-div {
@@ -16,6 +17,9 @@ body, html {
   display: block;
   margin-top: 60px;
   padding-bottom: 60px;
+  border-bottom: #b12f31;
+  border-bottom-width: 3px;
+  border-bottom-style: double;
 }
 
 
@@ -23,56 +27,91 @@ body, html {
    height: fit-content;
     z-index: -1;
     font-size: 20px;
-    background-color: #f5f4ef80;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     line-height: 30px;
-    font: sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 30px;
+    margin-right: 30px;
+    letter-spacing: normal;
+    border-radius: 15px;
+    border-bottom: #b12f31;
+    border-bottom-width: .5px;
+    border-bottom-style: solid;
   }
 
   #background-1 {
     background-image: url(./images/apple_tree.jpg);
     height: 300px;
-    background-attachment: fixed;
+    max-width: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1;
+
+
+  }
+
+  #background-10 {
+    background-image: url(./images/apple_tree9.jpg);
+    height: 300px;
+    max-width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+
   }
 
   #background-2 {
     background-image: url(./images/apple_tree6.jpg);
     height: 300px;
-    
-    background-attachment: fixed;
+    max-width: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1;
+  
+
   }
 
   #background-3 {
-    background-image: url(./images/pear2.jpg);
+    background-image: url(./images/apple_facebook.jpg);
     height: 300px;
-    
-    background-attachment: fixed;
+    max-width: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1;
   }
   #background-4 {
-    background-image: url(./images/dave3.jpg);
-    height: 400px;
-    
+    background-image: url(./images/pear2.jpg);
+    height: 300px;
+    max-width: 100%;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     z-index: -1;
+
   }
 
   #background-5 {
-    background-image: url(./images/apple_tree3.jpg);
-    height: 500px;
-    background-attachment: fixed;
+    background-image: url(./images/apple_bin.jpg);
+    height: 300px;
+    max-width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+  }
+
+  
+  #background-6 {
+    background-image: url(./images/apple_facebook2.jpg);
+    height: 300px;
+    max-width: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -92,23 +131,36 @@ body, html {
 
   .services-p {
     height: fit-content;
-    background-color: #eeede883;
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     z-index: -1;
-    text-align: center;
     font-size: 20px;
     align-self: start;
     align-content: center;
-    margin-left: auto;
-    margin-right: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-bottom: #b12f31;
+    border-bottom-width: .5px;
+    border-bottom-style: solid;
     display: flex;
     line-height: 30px;
-    font: sans-serif;
+    letter-spacing: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
 
   #services-h1{
     text-align: center;
     font-style: oblique;
+    font-family: cursive;
   }
+
+  .services-p a{
+    display: contents;
+  }
+
 
 
 
@@ -116,40 +168,43 @@ body, html {
   #services-background1 {
     
     background-image: url(./images/stem2.jpg);
-    height: 450px;
-    background-attachment: fixed;
+    height: 400px;
+    max-width: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    z-index: -1;
   }
-  #services-background2 {
-    
+  #services-background4 {
+    padding: none;
+    margin: none;
     background-image: url(./images/stem7.jpg);
     height: 600px;
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
-    z-index: -1;
+    background-size: contain;
   }
+
+
+
+ 
+
   #services-background3 {
     background-image: url(./images/stem.jpg);
-    height: 600px;
-    background-attachment: fixed;
+    height: 300px;
+    max-width: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    z-index: -1;
+
   }
 
   
 
 
-#services-background4 {
+#services-background2 {
     background-image: url(./images/stem3.jpg);
-    height: 600px;
-    background-attachment: fixed;
+    height: 300px;
+    max-width: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -158,8 +213,7 @@ body, html {
 
   .navbar{
   text-align: center;
-  background-color: rgba(59, 53, 85, 0.192);
-    
+  background-color: #333333;
   }
 
   #nav-links{
@@ -174,7 +228,7 @@ body, html {
     letter-spacing: .1em;
     text-transform: uppercase;
     align-self: auto;
-    
+    overflow-wrap: break-word;
   }
 
   a{
@@ -182,6 +236,8 @@ body, html {
     align-content: center;
     padding: 2%;
     text-align: center;
+    color: rgb(203,153,64);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
 
   
@@ -195,7 +251,8 @@ a:hover {
   background-color: rgba(167, 168, 95, 0.11);
   text-emphasis: bold;
   font-size: 15px; 
-  color: rgb(203,153,64);
+  color: #b12f31;
+  border-radius: 15%;
 }
 
 a:active { 
@@ -203,7 +260,7 @@ a:active {
 }
 
 #footer{
-  background-color: rgba(59, 53, 85, 0.192);
+  background-color: #333333;
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
@@ -239,7 +296,9 @@ a:active {
 }
 
 .cider-list{
- line-height: 0;
+ line-height: 1;
+ max-width: 500px;
+ font-family: 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #ciders-component h3{
@@ -249,78 +308,337 @@ a:active {
 
 .flavors{
   font-style: italic;
+  font-size: smaller;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+#carousel{
+  padding-top: 50px;
+  padding-bottom: none;
 }
 
 
 #award1{
   background-image: url(./images/award2.jpg);
-  background-attachment: fixed;
-  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  max-width: 100%;
+  height: auto;
 }
 
 #award2{
   background-image: url(./images/award3.jpg);
-  background-attachment: fixed;
-  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  max-width: 100%;
+  height: auto;
 }
 
 #award3{
   background-image: url(./images/award4.jpg);
-  background-attachment: fixed;
-  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  max-width: 100%;
+  height: auto;
 }
 
 #award4{
   background-image: url(./images/award5.jpg);
-  background-attachment: fixed;
-  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  max-width: 100%;
+  height: auto;
 }
 
 #award5{
   background-image: url(./images/award6.png);
-  background-attachment: fixed;
-  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  max-width: 100%;
+  height: auto;
 }
 
 #award6{
   background-image: url(./images/award7.png);
-  background-attachment: fixed;
-  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  max-width: 100%;
+  height: auto;
 }
 
 
 b :hover{
   font-weight: bolder;
-  color: red;
+  color: #b12f31;
   cursor: cell;
 }
 
 .about-alma-div h2{
-  color: darkred;
+  color: #b12f31;
+ text-transform: uppercase;
   
 }
 
 .about-alma-div h2:hover{
   cursor: help;
   color: white;
-  box-shadow: darkred;
-  background-color: darkred;
+  box-shadow: #b12f31;
+  background-color: #b12f31;
   transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
 }
 
 #awards-images img{
-  max-width: 300px;
-  max-height: 300px;
+  max-height: 700px;
+  max-width: 700px;
+  width: 100%
+
+}
+
+#awards-images{
+  margin: auto;
+
+}
+
+.cider-award.gold:hover{
+  color: goldenrod;
+}
+
+.cider-award.silver:hover{
+  color:gray;
+}
+
+.cider-award.bronze:hover{
+  color: rosybrown;
+}
+
+
+
+.cider-award.best:hover{
+  color: darkblue;
+}
+
+.cider-award.platinum:hover{
+  color: silver;
+}
+
+#glintcap{
+  color: black;
+  
+}
+
+#bs-logo{
+  display: flex;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: auto;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.cider-award {
+  font-size: small;
+  margin-left: 20px;
+}
+
+.cider-name{
+  text-transform: uppercase;
+}
+
+.cider-name:hover{
+  color: white;
+  box-shadow: #b12f31;
+  background-color: #b12f31;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+
+
+
+#home-bottom-div{
+  display: flex;
+  border-bottom: #b12f31;
+  border-bottom-width: 3px;
+  border-bottom-style: double;
+  overflow-wrap: break-word;
+  align-items: center;
+  justify-content: center;
+  font-family: monospace;
+  font-family: cursive;
+}
+
+.icons{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.icon{
+  background-color: white;
+  border-radius: 40%;
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+
+#associations-div{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding-left: 30px;
+}
+
+.asso-img{
+  max-width: 80px;
+  max-height: 80px;
+  padding-top: 20px;
+  padding-bottom: auto;
+}
+
+#ACA{
+  max-width: 200px;
+
+}
+
+#contact-us{
+  padding-bottom: 20px;
+  line-height: 40px;
+}
+
+#footer h4{
+  color: #ffffff;
+  background-color: #333333;
+  max-width: fit-content;
+  display: inline-block;
+  padding: 2px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.cider-list-items{
+  border-bottom: #b12f31;
+  border-bottom-width: 3px;
+  border-bottom-style: double;
+  padding-left: 10px;
+  letter-spacing: normal;
+}
+
+
+#alma-map{
+  justify-content: center;
+  align-content: center;
+  margin: 15px;
+  max-width: 90%;
+  max-height: auto;
+}
+
+#retailers p{
+  margin: 5 auto;
+  max-width: 650px;
+  padding-left: 25px;
+  padding-right: 25px;
+  display: flex;
+  line-height: 30px;
+  letter-spacing: normal;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#retailers a{
+  width: 250px;
+  margin: .5rem;
+  border-radius: 20px;
+  padding: 10px;
+  border: 2px;
+  border-style: solid;
+  box-shadow: #ffffff;
+  background-color: #ffffff;
+  font-variant: small-caps;
+  margin-left: 25px;
+}
+
+#retailers h3{
+  font-family:'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: smaller;
+  padding-right: 50px;
+  padding-left: 10px;
+  text-align: center;
+}
+
+#retailers h2{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin-left: 10px;
+}
+
+#retailers h6{
+  margin-left: 25px;
+  word-break: break-all;
+}
+
+#alma-map-div{
+  margin: 0 auto;
+  justify-content: center;
+  align-content: center;
+  max-width: fit-content;
+}
+
+#alma-retailers-p{
+  align-content: center;
+  display: flex;
+  justify-content: center;
+
+}
+
+#awards-images{
+  max-width: 700px;
+  justify-content: center;
+  align-content: center;
+  margin: 0 auto;
+
+}
+
+
+#alma-map{
+  border-radius: 10%;
+  border-color: rgb(180,126,40);
+  border-style: solid;
+  margin-top: 10px;
+
+}
+
+#grid-gallery{
+  width: 100%;
+background-color: #ffffff;
+}
+
+
+.online-retailers{
+  border-bottom: #b12f31;
+  border-bottom-width: 3px;
+  border-bottom-style: double;
+  max-width: fit-content;
+  padding-bottom: 15px;
+}
+
+
+#built-by{
+  color: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 50px;
+  display: inline-block;
+  font-size: x-small;
+}
+
+
+#dave-bottom img{
+    max-width: 90%;
+    max-height: 400px;
+    margin-top: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10%;
+    border-color: rgb(180,126,40);
+    border-style: solid;
 }
