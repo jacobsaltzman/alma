@@ -11,6 +11,9 @@ function Footer({asso, asso2, asso3, asso4}){
 
   return(
     <section id="footer">
+      <div id="age-gate-p">
+      <p>Note: Our ciders contain alcohol. You must be 21 or older to purchase Alma Cider.</p>
+      </div>
       <div id="associations-div">
       <img className="asso-img" alt="Cider Institute of North America" src={asso4}></img>
         <img className="asso-img" alt="Certified Pommelier" src={asso}></img>
