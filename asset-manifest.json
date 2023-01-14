@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/alma/static/css/main.3e4bc5b6.css",
-    "main.js": "/alma/static/js/main.cdfb8c18.js",
+    "main.css": "/alma/static/css/main.b0ee5cc4.css",
+    "main.js": "/alma/static/js/main.c8fa8556.js",
     "static/js/787.cd44fec5.chunk.js": "/alma/static/js/787.cd44fec5.chunk.js",
     "static/media/apple_bin.jpg": "/alma/static/media/apple_bin.be78ef1c2207dfe971af.jpg",
     "static/media/daves_kid2.jpg": "/alma/static/media/daves_kid2.96935659f0e65df11b8e.jpg",
@@ -53,12 +53,12 @@
     "static/media/slick.ttf": "/alma/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/alma/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/alma/index.html",
-    "main.3e4bc5b6.css.map": "/alma/static/css/main.3e4bc5b6.css.map",
-    "main.cdfb8c18.js.map": "/alma/static/js/main.cdfb8c18.js.map",
+    "main.b0ee5cc4.css.map": "/alma/static/css/main.b0ee5cc4.css.map",
+    "main.c8fa8556.js.map": "/alma/static/js/main.c8fa8556.js.map",
     "787.cd44fec5.chunk.js.map": "/alma/static/js/787.cd44fec5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e4bc5b6.css",
-    "static/js/main.cdfb8c18.js"
+    "static/css/main.b0ee5cc4.css",
+    "static/js/main.c8fa8556.js"
   ]
 }
