@@ -36,7 +36,7 @@ winner- Silver Medal 2021</p>
 combined with a aromatic botanicals and hints of citrus with a subtle smooth hop
 presence that lend to a balanced and refreshing taste that can be enjoyed on a
 patio in the summer or any time of year! ABV 7%</p>
-          <p className="cider-award gold">-<a id="glintcap" href="https://sipmagazine.com/2021-best-of-the-northwest-cider/">Sip Magazine</a>, “Best of the NW” Double Gold Medal- 2021</p>
+          <p className="cider-award gold">-<a id="glintcap" href="https://sipmagazine.com/2021-best-of-the-northwest-cider/">Sip Magazine</a> “Best of the NW” Double Gold Medal- 2021</p>
           <p className="cider-award bronze">-<a id="glintcap" href="https://glintcap.org/results/commercial/medalists/alma-cider/">GLINTCAP</a>(Great Lakes International Cider and Perry competition) Award
 winner- Bronze 2021</p>
 
@@ -52,7 +52,7 @@ Varietal (SV) cider with medium body and a lasting finish.</p>
           <p className="cider-award platinum">-Cider Craft Magazine’s “Cidercraft awards” Platinum Medal- 2020</p>
           <p className="cider-award silver">-<a id="glintcap" href="https://glintcap.org/results/commercial/medalists/alma-cider/">GLINTCAP</a>(Great Lakes International Cider and Perry competition) Award
 winner- Silver Medal 2021</p>
-          <p className="cider-award gold">-Sip Magazine, “Best of the NW” Gold Medal- 2022</p>
+          <p className="cider-award gold">-<a id="sip-mag" href="https://sipmagazine.com/announcing-the-11th-annual-best-of-the-northwest-cider-awards/">Sip Magazine</a> “Best of the NW” Gold Medal- 2022</p>
 
         </div>
         <div className="cider-list-items">
@@ -66,7 +66,7 @@ and bourbon with a long finish. Minimally filtered, light carbonation.</p>
 winner- Best in Class 2021</p>
           <p className="cider-award gold">-<a id="glintcap" href="https://glintcap.org/results/commercial/medalists/alma-cider/">GLINTCAP</a>(Great Lakes International Cider and Perry competition) Award
 winner- Gold Medal 2021</p>
-          <p className="cider-award best">-Sip magazine, “Best of the NW” Judges Pick- 2022</p>
+          <p className="cider-award best">- Sip magazine “Best of the NW” Judges Pick- 2022</p>
 
         </div>
         <div className="cider-list-items">
@@ -75,7 +75,7 @@ winner- Gold Medal 2021</p>
 flavor of the orchard, crisp and bright with medium body and a lingering finish.
 Minimally filtered. Sparkling. Beautiful tiny bubbles dance in the glass. A
 collaboration with friend and fellow cider maker Burro Loco.</p>
-          <p className="cider-award gold">-Sip magazine, “Best of the NW” Gold Medal- 2022</p>
+          <p className="cider-award gold">-<a id="sip-mag" href="https://sipmagazine.com/announcing-the-11th-annual-best-of-the-northwest-cider-awards/">Sip Magazine</a> “Best of the NW” Gold Medal- 2022</p>
         </div>
       </div>
     
