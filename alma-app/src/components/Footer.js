@@ -32,7 +32,6 @@ function Footer({asso, asso2, asso3, asso4}){
         <div></div>
         <SocialIcon className="icon" url="https://www.youtube.com/watch?v=GPmrh-3Xdi0&ab_channel=CiderChat" style={{ height: 8, width: 8 }} />
         <div></div>
-        <SocialIcon className="icon" url="https://twitter.com/AlmaCider" style={{ height: 8, width: 8 }} />
         </div>
       </div>
 
