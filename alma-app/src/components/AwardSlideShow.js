@@ -36,6 +36,12 @@ function AwardSlides () {
       <div id='award6' key={6} style={style}>
         
       </div>
+      <div id='award7' key={6} style={style}>
+        
+      </div>
+      <div id='award7' key={6} style={style}>
+        
+      </div>
     </Carousel>
   </div>
   );

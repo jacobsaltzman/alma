@@ -365,6 +365,14 @@ a:active {
   height: auto;
 }
 
+#award7{
+  background-image: url(./images/award8.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 100%;
+  height: auto;
+}
+
 
 b :hover{
   font-weight: bolder;
