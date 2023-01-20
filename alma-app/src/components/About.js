@@ -16,7 +16,7 @@ function About({almaMap, images, dave}){
     </p>
     <div id="background-2"></div>
     <h2 id="who">Who is Alma?</h2>
-    <p className="about-alma-p"> <b><em>Y. Dave</em></b> and <b><em>Heather Klawer</em></b> are both Registered Nurses. Heather has cared for neonates as a NICU nurse at Providence in Everett, WA for nearly 20 years. Dave has been supporting and caring for mothers, newborns, and their families since 2005. He works in Labor and Delivery, also at Providence in Everett. Heather and Dave live in the Skagit Valley where they raise their children. In addition to raising a family, working in healthcare, advocating for women’s and neonatal health, and growing community Dave and Heather Klawer tend to their young orchard and make cider. 
+    <p className="about-alma-p"> <b><em>Y. Dave</em></b> and <b><em>Heather Klawer</em></b> are both Registered Nurses -- Heather has cared for neonates as a NICU nurse for nearly 20 years, and Dave has been supporting and caring for mothers, newborns, and their families since 2005 in Labor and Delivery. Heather and Dave live in the Skagit Valley where they raise their children. In addition to raising a family, working in healthcare, advocating for women’s and neonatal health, and growing community, Dave and Heather Klawer tend to their young orchard and make cider. 
     </p>
     <div id="grid-gallery">
     <Gallery images={images} />
