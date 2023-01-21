@@ -5,7 +5,7 @@ function Services({bsLogo}){
   return (
     <div>
 
-<h1 id="services-h1">Bitters & Sharps Orchard</h1>
+<div id="bs-logo"><img alt="bitter and sharps logo" src={bsLogo}></img></div>
     <div id="services-background1"></div>
     
     <p className="services-p">We provide custom grafting, orchard planning, and consultation services. Apple sales and scion wood sales are also available.
@@ -23,7 +23,7 @@ We source certified virus free rootstock regionally, from a third generation fam
     <div id="bottom-services-div">
     <div id="services-background4">
     </div>
-    <div id="bs-logo"><img alt="bitter and sharps logo" src={bsLogo}></img></div>
+    
     </div>
     </div>
   )
