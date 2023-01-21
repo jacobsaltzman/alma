@@ -120,11 +120,11 @@ body, html {
     padding-top: auto;
     background-image: url(./images/apple_tree7.jpg);
     height: 60vh;
-    background-attachment: fixed;
+
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    z-index: -1;
+
   }
 
   .services-p {
