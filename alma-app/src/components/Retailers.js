@@ -14,7 +14,7 @@ function Retailers(){
       <iframe id="alma-map" title="alma-retailers" src="https://www.google.com/maps/d/embed?mid=1D40zxvOPcTCTn41RJ-IO-HuUwdOpDZk&ehbc=2E312F" width="640" height="480"></iframe>
       </div>
       <div id="online-retailers">
-      <h2>Shipping also available through online retailers  </h2>
+      <h2>Online Retailers  </h2>
       <div className="online-retailers">
       <h3>Press Then Press</h3>
         <p>the online retailer of rare, independent, local and craft ciders. Beautifully curated selection of domestic and imported ciders on an easy to navigate website. Delivered or shipped from Seattle!</p>
