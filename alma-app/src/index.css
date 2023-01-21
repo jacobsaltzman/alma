@@ -467,8 +467,8 @@ b :hover{
   overflow-wrap: break-word;
   align-items: center;
   justify-content: center;
-  font-family: monospace;
-  font-family: cursive;
+  font-variant: small-caps;
+  color: #b12f31;
 }
 
 .icons{
