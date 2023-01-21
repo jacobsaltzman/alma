@@ -6,7 +6,7 @@ function About({almaMap, images, dave}){
 
   return (
     <div className="about-alma-div">
-    <h1 id="top">The origin of Alma</h1>
+    <h1 id="top">The Origin of Alma</h1>
     <div id="background-1"></div>
     <p className="about-alma-p">Apples are native to Kazakhstan. If one were to hike through the hills and forests of Kazakhstan they would be among the native trees and be able to taste the wild apples that have grown in the region for millennia.
     </p>
@@ -41,7 +41,7 @@ function About({almaMap, images, dave}){
     <div id="background-5"></div>
     <div id="dave-bottom">
     <img alt="Happy Dave" src={dave}></img>
-    <h5>"We hope you enjoy Alma Cider! As it is truly a labor of love."</h5>
+    <h5>"We hope you enjoy Alma Cider, as it is truly a labor of love!"</h5>
     <h6>-Dave, Alma Owner</h6>
     </div>
     </div>
