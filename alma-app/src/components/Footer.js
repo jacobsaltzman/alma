@@ -15,10 +15,18 @@ function Footer({asso, asso2, asso3, asso4}){
       <p>Note: Our ciders contain alcohol. You must be 21 or older to purchase Alma Cider.</p>
       </div>
       <div id="associations-div">
+        <a href="https://www.ciderinstitute.com/">
       <img className="asso-img" alt="Cider Institute of North America" src={asso4}></img>
+        </a>
+        <a href="https://ciderassociation.org/certified_pommelier_category/washington/">
         <img className="asso-img" alt="Certified Pommelier" src={asso}></img>
+        </a>
+        <a href="https://www.nwcider.com/map/#3">
         <img className="asso-img" alt="NW Cider Association" src={asso2}></img>
+        </a>
+        <a href="https://ciderassociation.org/">
         <img className="asso-img" id="ACA" alt="American Cider Association" src={asso3}></img>
+        </a>
       </div>
 
       <div id="social-media">
